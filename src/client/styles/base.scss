@@ -7,20 +7,21 @@
    }
   
   html {
-    box-sizing: border-box;
+    
     font-size: 62.5%;
   }
   
   body {
     box-sizing: border-box;
-      font-family: 'open Sans', sans-serif;
-      // font-size: 16px;
-      font-weight: 300;
-      line-height: 1.6;
-      min-height: 100vh;
-      color: rgba(17, 13, 13, 0.842);
-      background-color: whitesmoke;
-      padding: 3rem;
+
+    font-family: 'open Sans', sans-serif;
+    // font-size: 16px;
+    font-weight: 300;
+    line-height: 1.6;
+    min-height: 100vh;
+    color: rgba(17, 13, 13, 0.842);
+    background-color: whitesmoke;
+    padding: 3rem;
       
   }
   .app{
